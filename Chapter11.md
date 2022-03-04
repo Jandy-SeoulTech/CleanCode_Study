@@ -23,8 +23,5 @@
     2. 자바 프록시
         1. [https://velog.io/@adduci/자바의-동적-프록시](https://velog.io/@adduci/%EC%9E%90%EB%B0%94%EC%9D%98-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9D%EC%8B%9C)
     3. 스프링 AOP 프레임워크
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73e712db-270a-4c62-a70c-f6c64485fe23/Untitled.png)
-        
     4. AspectJ
         1. aop 구현 라이브러리
